@@ -1,5 +1,7 @@
 package com.zxc.leetcode.palindromelinkedlist;
 
+import com.zxc.leetcode.common.ListNode;
+
 /**
  * @author xiaoye
  * @create 2021-02-28 20:34
